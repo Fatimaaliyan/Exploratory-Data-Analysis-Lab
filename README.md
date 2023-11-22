@@ -1,1 +1,2 @@
 # Exploratory-Data-Analysis-Lab
+I completed all the tasks in this module, working with the cleaned dataset from the previous module. In this assignment, I conducted exploratory data analysis, examining the distribution of data, identifying outliers, and determining the correlation between different columns in the dataset. The objectives of this lab were successfully achieved, including identifying the distribution of data, pinpointing outliers, removing outliers from the dataset, and identifying correlations between features.
